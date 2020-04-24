@@ -1,5 +1,7 @@
 # ubiquiti-name-generator
 
+This is a small Vue app to generate fake Ubiquiti product names.  For fun.
+
 ## Project setup
 ```
 npm install
