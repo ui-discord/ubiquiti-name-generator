@@ -1,10 +1,17 @@
 import Vue from 'vue'
 import App from './App.vue'
-import store from './store'
 
 Vue.config.productionTip = false
 
+import 'bootstrap/dist/css/bootstrap.css'
+import './assets/global.scss'
+
+import VueGtag from "vue-gtag";
+
+Vue.use(VueGtag, {
+  config: { id: process.env.VUE_APP_GOOGLE_ANALYTICS_ID }
+});
+
 new Vue({
-  store,
   render: h => h(App)
 }).$mount('#app')
