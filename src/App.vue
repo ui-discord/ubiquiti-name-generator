@@ -3,12 +3,17 @@
     h1 Ubiquiti Product Name Generator
     .name.my-5 {{name}}
     .btn.btn-large.btn-primary.my-5(@click="newName") Hit Me
+    .gh-buttons
+      gh-btns-star(slug="jonbloom/ubiquiti-name-generator" show-count)
+      gh-btns-watch(slug="jonbloom/ubiquiti-name-generator" show-count)
+      
 </template>
 
 <script>
 
 import random from 'random';
 import parts from './assets/parts.json'
+
 
 export default {
   name: 'App',
