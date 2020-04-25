@@ -16,6 +16,10 @@ import VueGitHubButtons from 'vue-github-buttons';
 import 'vue-github-buttons/dist/vue-github-buttons.css';
 Vue.use(VueGitHubButtons);
 
+import { firestorePlugin } from 'vuefire';
+
+Vue.use(firestorePlugin);
+
 
 
 new Vue({
