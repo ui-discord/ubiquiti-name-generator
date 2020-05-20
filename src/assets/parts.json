@@ -2,5 +2,5 @@
   "productLines": ["Amplifi", "UniFi", "AirMax", "EdgeMax"],
   "prefixes": ["Flex", "In-Wall", "nano"],
   "products": ["Switch", "AP", "Dream Machine", "Security Gateway", "Camera", "Alien", "Cloud Key", "6"],
-  "suffixes": ["PoE", "Mini", "Loco", "Leaf", "Flex", "HD", "SHD", "Mesh", "XG", "8", "16", "24", "36", "48", "6"]
+  "suffixes": ["PoE", "Mini", "Loco", "Leaf", "Flex", "HD", "SHD", "Mesh", "XG", "8", "16", "24", "36", "48"]
 }
