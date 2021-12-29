@@ -1,6 +1,6 @@
 {
   "productLines": ["Amplifi", "UniFi", "AirMax", "EdgeMax", "UISP"],
-  "prefixes": ["Flex", "In-Wall", "nano"],
-  "products": ["Switch", "AP", "Dream Machine", "Security Gateway", "Camera", "Alien", "Cloud Key", "6", "PDU", "Smart Power", "Access"],
-  "suffixes": ["PoE", "Mini", "Loco", "Leaf", "Flex", "HD", "SHD", "Mesh", "Strip", "Plug", "Pro", "XG", "8", "16", "24", "36", "48", "Reader", "Hub"]
+  "prefixes": ["Flex", "In-Wall", "Nano"],
+  "products": ["Switch", "AP", "Dream Machine", "Security Gateway", "Camera", "Alien", "Cloud Key", "6", "PDU", "Smart Power", "Access", "Connect", "Patch Cable", "Dream Router", "Building-to-Building Bridge"],
+  "suffixes": ["PoE", "Mini", "Loco", "Leaf", "Flex", "HD", "SHD", "Mesh", "Strip", "Plug", "Pro", "XG", "8", "16", "24", "36", "48", "Reader", "Hub", "Outdoor", "AI", "(No Audio)"]
 }
