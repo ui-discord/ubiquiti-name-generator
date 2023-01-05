@@ -1,6 +1,14 @@
 {
   "productLines": ["Amplifi", "UniFi", "AirMax", "EdgeMax", "UISP", "Protect"],
-  "prefixes": ["Flex", "In-Wall", "Nano", "Data Center"],
+  "prefixes": [
+    "Flex",
+    "In-Wall",
+    "Nano",
+    "Data Center",
+    "G3",
+    "G4",
+    "G5"
+  ],
   "products": ["Switch", "Switch Pro", "AP", "Dream Machine", "Security Gateway", "Camera", "Alien", "Cloud Key", "6", "PDU", "Smart Power", "Access", "Connect", "Talk", "Patch Cable", "Dream Router", "Building-to-Building Bridge", "Aggregation", "View Port", "Doorbell"],
   "suffixes": ["PoE", "Mini", "Loco", "Leaf", "Flex", "HD", "SHD", "Mesh", "Strip", "Plug", "Pro", "XG", "8", "16", "24", "36", "48", "Reader", "Hub", "Outdoor", "AI", "(No Audio)", "Theta", "SE", "PTZ", "(Locked)", "Enterprise", "DSLR"]
 }
